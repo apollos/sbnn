@@ -1,7 +1,7 @@
 # Stochastic Bayesian Neural Networks
-Code for the paper Stochastic Bayesian Neural Networks
+Code for the paper `Stochastic Bayesian Neural Networks`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/sbnn.pdf)
+Link to [Paper](https://abhinavsagar.github.io/files/sbnn.pdf).
 
 ## Data
 
