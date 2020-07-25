@@ -3,6 +3,19 @@ Code for the paper `Stochastic Bayesian Neural Networks`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/sbnn.pdf).
 
+## Abstract
+
+Bayesian neural networks perform variational inference over the weights however
+calculation of the posterior distribution remains a challenge. Our work builds on
+variational inference techniques for bayesian neural networks using the original
+Evidence Lower Bound. In this paper, we present a stochastic bayesian neural
+network in which we maximize Evidence Lower Bound using a new objective
+function which we name as Stochastic Evidence Lower Bound. We tested our
+approach on 5 publicly available UCI datasets using test RMSE and log likelihood
+as the evaluation metrics. We demonstrate that our work not only beats the previous
+state of the art algorithms but also allows uncertainty quantification and is scalable
+to larger datasets.
+
 ## Data
 
 The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table).
